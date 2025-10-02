@@ -1,7 +1,0 @@
-[
-  {
-    "directory": "/home/bopmite/cpp",
-    "command": "clang++ -std=c++14 -I/home/bopmite/cpp/include/boost src/main.cpp -o main -lpthread",
-    "file": "/home/bopmite/cpp/src/main.cpp"
-  }
-]
